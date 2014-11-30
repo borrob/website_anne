@@ -35,7 +35,7 @@ $('#menubar').html('<div class="container">'+
 					'<li><a href="#">Duo H|A</a></li>'+
 				'</ul>'+
 			'</li>'+
-			'<li><a href="#contact">Contact</a></li>'+
+			'<li id="menu_contact"><a href="contact.html">Contact</a></li>'+
 		'</ul>'+
 	'</div><!--/.nav-collapse -->'+
 '</div>');
