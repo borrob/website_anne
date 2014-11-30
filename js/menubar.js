@@ -28,7 +28,7 @@ $('#menubar').html('<div class="container">'+
 			'<li class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ensembles <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
-					'<li><a href="#">Off&lt;&gt;zz</a></li>'+
+					'<li id="menu_offzz"><a href="offzz.html">Off&lt;&gt;zz</a></li>'+
 					'<li><a href="#">SCALA</a></li>'+
 					'<li><a href="#">Duo Kolthof/Veinberg</a></li>'+
 					'<li><a href="#">Duo Neshomme</a></li>'+
