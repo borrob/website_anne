@@ -18,3 +18,20 @@ body {
 	padding-top:15px;
 }
 
+.v-center {
+	display:table!important;
+}
+
+.v-center div[class*='col-'] {
+	display: table-cell!important;
+	vertical-align:middle;
+	float:none;
+}
+
+.top-buffer {
+	margin-top:20px;
+}
+
+.top-large-buffer {
+	margin-top:100px;
+}
