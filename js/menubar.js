@@ -13,7 +13,7 @@ $('#menubar').html('<div class="container">'+
 			'<li id="menu_home"><a href="index.html">Home</a></li>'+
 			'<li id="menu_about"><a href="about.html">About</a></li>'+
 			'<li id="menu_news"><a href="news.html">News</a></li>'+
-			'<li class="dropdown">'+
+			'<li id="menu_calendar" class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Calendar <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li><a href="#">Upcoming</a></li>'+
