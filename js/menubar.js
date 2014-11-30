@@ -30,7 +30,7 @@ $('#menubar').html('<div class="container">'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li id="menu_offzz"><a href="offzz.html">Off&lt;&gt;zz</a></li>'+
 					'<li id ="menu_scala"><a href="scala.html">SCALA</a></li>'+
-					'<li><a href="#">Duo Kolthof/Veinberg</a></li>'+
+					'<li id="menu_kolthofveinberg"><a href="kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
 					'<li><a href="#">Duo Neshomme</a></li>'+
 					'<li><a href="#">Duo H|A</a></li>'+
 				'</ul>'+
