@@ -24,7 +24,7 @@ $('#menubar').html('<div class="container">'+
 				'</ul>'+
 			'</li>'+
 			'<li><a href="#photos">Photos</a></li>'+
-			'<li><a href="#listen">Listen</a></li>'+
+			'<li id="menu_listen"><a href="listen.html">Listen</a></li>'+
 			'<li class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ensembles <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
