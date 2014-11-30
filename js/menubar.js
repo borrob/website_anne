@@ -6,7 +6,7 @@ $('#menubar').html('<div class="container">'+
 			'<span class="icon-bar"></span>'+
 			'<span class="icon-bar"></span>'+
 		'</button>'+
-		'<a class="navbar-brand" href="#">Anne Veinberg</a>'+
+		'<a class="navbar-brand" href="http://www.anneveinberg.com">Anne Veinberg</a>'+
 	'</div>'+
 	'<div id="navbar" class="navbar-collapse collapse">'+
 		'<ul class="nav navbar-nav">'+
