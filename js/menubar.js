@@ -16,7 +16,7 @@ $('#menubar').html('<div class="container">'+
 			'<li id="menu_calendar" class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Calendar <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
-					'<li><a href="#">Upcoming</a></li>'+
+					'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
 					'<li class="divider"></li>'+
 					'<li><a href="#">2012</a></li>'+
 					'<li><a href="#">2013</a></li>'+
