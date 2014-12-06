@@ -10,7 +10,19 @@ $('#menubar').html('<div class="container">'+
 	'</div>'+
 	'<div id="navbar" class="navbar-collapse collapse">'+
 		'<ul class="nav navbar-nav">'+
-			'<li id="menu_home"><a href="index.html">Home</a></li>'+
+			'<li id="menu_home" class="dropdown">' +
+				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="caret"></span></a>'+
+				'<ul class="dropdown-menu" role="menu">'+
+					'<li id="menu_home2"><a href="index.html">Home</a></li>'+
+					'<li class="divider"></li>'+
+					'<li id="menu_piano"><a href="piano.html">Piano</a></li>'+
+					'<li id="menu_other_pianos"><a href="other_pianos.html">Other pianos</a></li>'+
+					'<li id="menu_piano_and_technology"><a href="piano_and_technology.html">Piano and technology</a></li>'+
+					'<li id="menu_piano_spiced_up"><a href="piano_spiced_up.html">Piano spiced up</a></li>'+
+					'<li id="menu_home_ensembles"><a href="ensembles.html">Ensembles</a></li>'+
+					'<li id="menu_piano_and_comunity"><a href="piano_and_comunity.html">Piano and comunity</a></li>'+
+				'</ul>'+
+			'</li>'+
 			'<li id="menu_about"><a href="about.html">About</a></li>'+
 			'<li id="menu_news"><a href="news.html">News</a></li>'+
 			'<li id="menu_calendar" class="dropdown">'+
@@ -52,7 +64,18 @@ $('#menubar1deep').html('<div class="container">'+
 	'</div>'+
 	'<div id="navbar" class="navbar-collapse collapse">'+
 		'<ul class="nav navbar-nav">'+
-			'<li id="menu_home"><a href="../index.html">Home</a></li>'+
+			'<li id="menu_home" class="dropdown">' +
+				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="caret"></span></a>'+
+				'<ul class="dropdown-menu" role="menu">'+
+					'<li id=".menu_home2"><a href="../index.html">Home</a></li>'+
+					'<li class="divider"></li>'+
+					'<li id="menu_piano"><a href="../piano.html">Piano</a></li>'+
+					'<li id="menu_other_pianos"><a href="../other_pianos.html">Other pianos</a></li>'+
+					'<li id="menu_piano_and_technology"><a href="../piano_and_technology.html">Piano and technology</a></li>'+
+					'<li id="menu_piano_spiced_up"><a href="../piano_spiced_up.html">Piano spiced up</a></li>'+
+					'<li id="menu_home_ensembles"><a href="../ensembles.html">Ensembles</a></li>'+
+					'<li id="menu_piano_and_comunity"><a href="../piano_and_comunity.html">Piano and comunity</a></li>'+
+				'</ul>'+
 			'<li id="menu_about"><a href="../about.html">About</a></li>'+
 			'<li id="menu_news"><a href="../news.html">News</a></li>'+
 			'<li id="menu_calendar" class="dropdown">'+
