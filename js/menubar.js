@@ -26,6 +26,8 @@ $('#menubar').html('<div class="container">'+
 			'<li id="menu_ensembles" class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ensembles <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
+					'<li id="menu_ensembles2"><a href="ensembles.html">Overview</a></li>'+
+					'<li class="divider"></li>'+
 					'<li id="menu_offzz"><a href="offzz.html">Off&lt;&gt;zz</a></li>'+
 					'<li id ="menu_scala"><a href="scala.html">SCALA</a></li>'+
 					'<li id="menu_kolthofveinberg"><a href="duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
@@ -66,6 +68,8 @@ $('#menubar1deep').html('<div class="container">'+
 			'<li id="menu_ensembles" class="dropdown">'+
 				'<a href="../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ensembles <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
+					'<li id="menu_ensembles2"><a href="../ensembles.html">Overview</a></li>'+
+					'<li class="divider"></li>'+
 					'<li id="menu_offzz"><a href="../offzz.html">Off&lt;&gt;zz</a></li>'+
 					'<li id ="menu_scala"><a href="../scala.html">SCALA</a></li>'+
 					'<li id="menu_kolthofveinberg"><a href="../duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
