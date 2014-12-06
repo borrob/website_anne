@@ -20,7 +20,7 @@ $('#menubar').html('<div class="container">'+
 					'<li id="menu_piano_and_technology"><a href="piano_and_technology.html">Piano and technology</a></li>'+
 					'<li id="menu_piano_spiced_up"><a href="piano_spiced_up.html">Piano spiced up</a></li>'+
 					'<li id="menu_home_ensembles"><a href="ensembles.html">Ensembles</a></li>'+
-					'<li id="menu_piano_and_comunity"><a href="piano_and_comunity.html">Piano and comunity</a></li>'+
+					'<li id="menu_piano_and_community"><a href="piano_and_community.html">Piano and community</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_about"><a href="about.html">About</a></li>'+
@@ -74,7 +74,7 @@ $('#menubar1deep').html('<div class="container">'+
 					'<li id="menu_piano_and_technology"><a href="../piano_and_technology.html">Piano and technology</a></li>'+
 					'<li id="menu_piano_spiced_up"><a href="../piano_spiced_up.html">Piano spiced up</a></li>'+
 					'<li id="menu_home_ensembles"><a href="../ensembles.html">Ensembles</a></li>'+
-					'<li id="menu_piano_and_comunity"><a href="../piano_and_comunity.html">Piano and comunity</a></li>'+
+					'<li id="menu_piano_and_community"><a href="../piano_and_community.html">Piano and community</a></li>'+
 				'</ul>'+
 			'<li id="menu_about"><a href="../about.html">About</a></li>'+
 			'<li id="menu_news"><a href="../news.html">News</a></li>'+
