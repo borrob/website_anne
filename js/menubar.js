@@ -30,9 +30,9 @@ $('#menubar').html('<div class="container">'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
 					'<li class="divider"></li>'+
-					'<li><a href="#">2012</a></li>'+
+					'<li><a href="calendar_2014.html">2014</a></li>'+
 					'<li><a href="#">2013</a></li>'+
-					'<li><a href="#">2014</a></li>'+
+					'<li><a href="#">2012</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_ensembles" class="dropdown">'+
@@ -83,9 +83,9 @@ $('#menubar1deep').html('<div class="container">'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li><a href="../calendar_upcoming.html">Upcoming</a></li>'+
 					'<li class="divider"></li>'+
-					'<li><a href="../#">2012</a></li>'+
+					'<li><a href="../calendar_2014.html">2014</a></li>'+
 					'<li><a href="../#">2013</a></li>'+
-					'<li><a href="../#">2014</a></li>'+
+					'<li><a href="../#">2012</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_ensembles" class="dropdown">'+
