@@ -45,6 +45,7 @@ $('#menubar').html('<div class="container">'+
 					'<li id="menu_kolthofveinberg"><a href="duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
 					'<li id="menu_neshome"><a href="duo_neshome.html">Duo Neshome</a></li>'+
 					'<li id="menu_ha"><a href="duo_ha.html">Duo H|A</a></li>'+
+					'<li id="menu_kv"><a href="duo_kortekaas_veinberg.html">Duo Kortekaas|Veinberg</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_contact"><a href="contact.html">Contact</a></li>'+
@@ -98,6 +99,7 @@ $('#menubar1deep').html('<div class="container">'+
 					'<li id="menu_kolthofveinberg"><a href="../duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
 					'<li id="menu_neshome"><a href="../duo_neshome.html">Duo Neshome</a></li>'+
 					'<li id="menu_ha"><a href="../duo_ha.html">Duo H|A</a></li>'+
+					'<li id="menu_kv"><a href="../duo_kortekaas_veinberg.html">Duo Kortekaas|Veinberg</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_contact"><a href="../contact.html">Contact</a></li>'+
