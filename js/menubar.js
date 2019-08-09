@@ -25,21 +25,21 @@ $('#menubar').html('<div class="container">'+
 			'</li>'+
 			'<li id="menu_about"><a href="about.html">About</a></li>'+
 			'<li id="menu_news"><a href="news.html">News</a></li>'+
-			'<li id="menu_calendar" class="dropdown">'+
-				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Calendar <span class="caret"></span></a>'+
-				'<ul class="dropdown-menu" role="menu">'+
-					'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
-					'<li class="divider"></li>'+
-					'<li><a href="calendar_2019.html">2019</a></li>'+
-					'<li><a href="calendar_2018.html">2018</a></li>'+
-					'<li><a href="calendar_2017.html">2017</a></li>'+
-					'<li><a href="calendar_2016.html">2016</a></li>'+
-					'<li><a href="calendar_2015.html">2015</a></li>'+
-					'<li><a href="calendar_2014.html">2014</a></li>'+
-					'<li><a href="calendar_2013.html">2013</a></li>'+
-					'<li><a href="#">2012</a></li>'+
-				'</ul>'+
-			'</li>'+
+			//'<li id="menu_calendar" class="dropdown">'+
+			//	'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Calendar <span class="caret"></span></a>'+
+			//	'<ul class="dropdown-menu" role="menu">'+
+			//		'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
+			//		'<li class="divider"></li>'+
+			//		'<li><a href="calendar_2019.html">2019</a></li>'+
+			//		'<li><a href="calendar_2018.html">2018</a></li>'+
+			//		'<li><a href="calendar_2017.html">2017</a></li>'+
+			//		'<li><a href="calendar_2016.html">2016</a></li>'+
+			//		'<li><a href="calendar_2015.html">2015</a></li>'+
+			//		'<li><a href="calendar_2014.html">2014</a></li>'+
+			//		'<li><a href="calendar_2013.html">2013</a></li>'+
+			//		'<li><a href="#">2012</a></li>'+
+			//	'</ul>'+
+			//'</li>'+
 			'<li id="menu_ensembles" class="dropdown">'+
 				'<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ensembles <span class="caret"></span></a>'+
 				'<ul class="dropdown-menu" role="menu">'+
