@@ -30,6 +30,7 @@ $('#menubar').html('<div class="container">'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
 					'<li class="divider"></li>'+
+					'<li><a href="calendar_2020.html">2020</a></li>'+
 					'<li><a href="calendar_2019.html">2019</a></li>'+
 					'<li><a href="calendar_2018.html">2018</a></li>'+
 					'<li><a href="calendar_2017.html">2017</a></li>'+
@@ -37,7 +38,8 @@ $('#menubar').html('<div class="container">'+
 					'<li><a href="calendar_2015.html">2015</a></li>'+
 					'<li><a href="calendar_2014.html">2014</a></li>'+
 					'<li><a href="calendar_2013.html">2013</a></li>'+
-					'<li><a href="#">2012</a></li>'+
+					'<li><a href="calendar_2012.html">2012</a></li>'+
+					'<li><a href="calendar_2011.html">2011</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_ensembles" class="dropdown">'+
