@@ -21,6 +21,7 @@ $('#menubar').html('<div class="container">'+
 					'<li id="menu_piano_spiced_up"><a href="piano_spiced_up.html">Piano spiced up</a></li>'+
 					'<li id="menu_home_ensembles"><a href="ensembles.html">Ensembles</a></li>'+
 					'<li id="menu_teaching_and_community"><a href="teaching_and_community.html">Teaching and community</a></li>'+
+					'<li id="menu_research"><a href="research.html">Research</a></li>'+
 				'</ul>'+
 			'</li>'+
 			'<li id="menu_about"><a href="about.html">About</a></li>'+
