@@ -31,6 +31,7 @@ $('#menubar').html('<div class="container">'+
 				'<ul class="dropdown-menu" role="menu">'+
 					'<li><a href="calendar_upcoming.html">Upcoming</a></li>'+
 					'<li class="divider"></li>'+
+					'<li><a href="calendar_2021.html">2021</a></li>'+
 					'<li><a href="calendar_2020.html">2020</a></li>'+
 					'<li><a href="calendar_2019.html">2019</a></li>'+
 					'<li><a href="calendar_2018.html">2018</a></li>'+
