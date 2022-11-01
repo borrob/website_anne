@@ -52,7 +52,7 @@ $('#menubar').html('<div class="container">'+
 					'<li id="menu_offzz"><a href="offzz.html">Off&lt;&gt;zz</a></li>'+
 					'<li id ="menu_scala"><a href="scala.html">SCALA</a></li>'+
 					'<li id="menu_kolthofveinberg"><a href="duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
-					'<li id="menu_neshome"><a href="duo_neshome.html">Duo Neshome</a></li>'+
+					'<li id="menu_kbextravaganza"><a href="keyboard_extravaganza.html">Keyboard Extravaganza</a></li>'+
 					'<li id="menu_ha"><a href="duo_ha.html">Duo H|A</a></li>'+
 					'<li id="menu_kv"><a href="duo_kortekaas_veinberg.html">Duo Kortekaas|Veinberg</a></li>'+
 				'</ul>'+
@@ -105,9 +105,9 @@ $('#menubar1deep').html('<div class="container">'+
 					'<li id="menu_ensembles2"><a href="../ensembles.html">Overview</a></li>'+
 					'<li class="divider"></li>'+
 					'<li id="menu_offzz"><a href="../offzz.html">Off&lt;&gt;zz</a></li>'+
-					'<li id ="menu_scala"><a href="../scala.html">SCALA</a></li>'+
+					'<li id="menu_scala"><a href="../scala.html">SCALA</a></li>'+
 					'<li id="menu_kolthofveinberg"><a href="../duo_kolthof_veinberg.html">Duo Kolthof/Veinberg</a></li>'+
-					'<li id="menu_neshome"><a href="../duo_neshome.html">Duo Neshome</a></li>'+
+					'<li id="menu_kbextravaganza"><a href="../keyboard_extravaganza.html">Keyboard Extravaganza</a></li>'+
 					'<li id="menu_ha"><a href="../duo_ha.html">Duo H|A</a></li>'+
 					'<li id="menu_kv"><a href="../duo_kortekaas_veinberg.html">Duo Kortekaas|Veinberg</a></li>'+
 				'</ul>'+
