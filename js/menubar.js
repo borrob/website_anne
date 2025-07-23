@@ -16,8 +16,8 @@ $('#menubar').html('<div class="container">'+
 					'<li id="menu_home2"><a href="index.html">Home</a></li>'+
 					'<li class="divider"></li>'+
 					'<li id="menu_piano"><a href="piano.html">Piano</a></li>'+
+					'<li id="menu_pianoenchill"><a href="pianoenchill.html">Piano and chill</a></li>'+
 					'<li id="menu_other_pianos"><a href="other_pianos.html">Other pianos</a></li>'+
-					'<li id="menu_piano_and_technology"><a href="piano_and_technology.html">Piano and technology</a></li>'+
 					'<li id="menu_piano_spiced_up"><a href="piano_spiced_up.html">Piano spiced up</a></li>'+
 					'<li id="menu_home_ensembles"><a href="ensembles.html">Ensembles</a></li>'+
 					'<li id="menu_teaching_and_community"><a href="teaching_and_community.html">Teaching and community</a></li>'+
@@ -84,8 +84,8 @@ $('#menubar1deep').html('<div class="container">'+
 					'<li id=".menu_home2"><a href="../index.html">Home</a></li>'+
 					'<li class="divider"></li>'+
 					'<li id="menu_piano"><a href="../piano.html">Piano</a></li>'+
+					'<li id="menu_pianoenchill"><a href="../pianoenchill.html">Piano and chill</a></li>'+
 					'<li id="menu_other_pianos"><a href="../other_pianos.html">Other pianos</a></li>'+
-					'<li id="menu_piano_and_technology"><a href="../piano_and_technology.html">Piano and technology</a></li>'+
 					'<li id="menu_piano_spiced_up"><a href="../piano_spiced_up.html">Piano spiced up</a></li>'+
 					'<li id="menu_home_ensembles"><a href="../ensembles.html">Ensembles</a></li>'+
 					'<li id="menu_teaching_and_community"><a href="../teaching_and_community.html">Teaching and community</a></li>'+
